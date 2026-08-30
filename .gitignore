@@ -1,1 +1,5 @@
 terraform.exe
+*/bin/*
+*/obj/*
+*invoke
+*/.terraform/
